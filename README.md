@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Brenno Natal
 
-<a href="https://www.linkedin.com/in/brenno-natal-644194164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brenno-natal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennonatal&count_private=true&show_icons=true&theme=vue-dark&custom_title=Statistics"/>
